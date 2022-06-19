@@ -1,0 +1,54 @@
+
+
+footer {
+	clear: both;
+	width: 100%;
+	background: #f5f5f7; 
+	padding: 70px 0px;
+}
+
+footer .foot {
+	width: 70%;
+	margin: 0px auto;
+}
+footer .foot .top {
+	width: 100%;
+	border-bottom: 1px solid #777;
+	padding-bottom: 20px;
+}
+footer .foot .top::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+footer .foot .top h1 {
+	float: left;
+	font: bold 24px ;
+	color: #666;
+}
+footer .foot .top ul {
+	float: right;
+}
+footer .foot .top ul li {
+	float: left;
+	margin-left: 20px;
+}
+footer .foot .top ul li a {
+	font: bold 14px ;
+	color: #666;
+}
+footer .foot .bottom {
+	width: 100%;
+	padding-top: 20px;
+}
+footer .foot .bottom address {
+	width: 100%;
+	font: 12px ;
+	color: #777;
+	margin-bottom: 20px;
+}
+footer .foot .bottom p {
+	width: 100%;
+	font: 12px ;
+	color: #777;
+}

@@ -1,0 +1,41 @@
+.mainmenu{
+    border-bottom: 1px solid;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.iphone{
+    width: 20%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+
+.iphone li{
+    font-weight: bold;
+}
+
+.iphone li a {
+    font-size: 12px;
+    color: dodgerblue;
+}
+
+.iphone h5{
+    opacity: 0.7;
+}
+
+.iphone li a:hover {
+    text-decoration: underline;
+}
+
+.mainimage{
+    width: 1300px;
+    border-bottom: 1px solid;
+}
+
+.mainimage img{
+    width: 100%;
+}
+

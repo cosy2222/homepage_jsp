@@ -1,0 +1,45 @@
+
+
+.header{
+    height: 200px;
+    width: 100%;
+}
+
+
+.logo{
+    margin-top: 10px;
+    height: 80px;
+    width: 100px;
+}
+
+
+
+.mainmenu{
+    height: 70px;
+    width: 100%;
+    position: relative;
+}
+
+
+.mainmenu li{
+    display: inline-flex;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.topmenu{
+    margin-right: 50px;
+    position: relative;
+    width: 100%;
+}
+.topmenu li {
+    margin-right: 30px;
+    float: right;
+    display: inline-flex;
+}
+
+
+
+.topmenu img{
+    width: 30px;
+}

@@ -1,0 +1,95 @@
+
+figure {
+	width: 100%;
+	height: 400px;
+	position: relative;
+	padding-top: 250px;
+}
+figure video {
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.aa{
+	margin-top: 50px;
+	width: 100%;
+	
+}
+
+.aa ul.name {
+	margin: 50px 0 50px ;
+	text-align: center;
+}
+.aa ul.name li {
+	margin: 10px;
+}
+.aa ul.name .title {
+	font-size: 50px;
+	font-weight: bold;
+}
+.aa ul a{
+	color: dodgerblue;
+	font-weight: bold;
+}
+
+.aa a:hover{
+	text-decoration: underline;
+}
+
+.iphone13pro{
+	width: 50%;
+	height: 700px;
+	float: left;
+}
+
+.iphone13pro img{
+	width: 50%;
+}
+
+.ipad{
+	background-color: black;
+	width: 50%;
+	height: 700px;
+	float: right;
+}
+
+.ipad .title{
+	color: ghostwhite;
+}
+
+.ipad img{
+	height: 500px;
+	width: 50%;
+}
+
+.MacBook{
+	width: 50%;
+	height: 700px;
+	float: right
+}
+
+.MacBook img{
+	width: 100%;
+	margin-top: 50px;
+}
+
+.airpods{
+	width: 50%;
+	height: 700px;
+	float: left;
+}
+
+.airpods img{
+	margin-top: 150px;
+	width: 200px;
+}
+
+
+
+
+
+

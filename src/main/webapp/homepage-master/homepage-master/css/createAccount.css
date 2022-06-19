@@ -1,0 +1,48 @@
+.mainmenu{
+    border-bottom: 1px solid;
+}
+
+main{
+    width: 100%;
+}
+
+
+
+.create{
+    width: 300px;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+
+
+.create .input{
+    margin: 10px 0;
+}
+
+.create .input input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    padding: 20px;
+    width: 100%;
+    font-size: 16px;
+    text-align: left;
+}
+
+
+.login>a:hover{
+    opacity: 1.0;
+    text-decoration: underline;
+}
+
+.createbtn{
+    margin-top: 10px;
+    padding: 10px 50px;
+    background-color: black;
+    color: #fff;
+}
+
+
+
+
+
